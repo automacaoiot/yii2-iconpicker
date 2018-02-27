@@ -68,9 +68,9 @@ class Iconpicker extends InputWidget
     private $internalId;
     
     /**
-     * @var string
+     * @var string    
      */
-    private $defaultIcon = 'fa-ellipsis-h';
+    public $defaultIcon = 'fa-ellipsis-h';
     
     /**
      *
