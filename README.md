@@ -25,7 +25,7 @@ composer require --prefer-dist insolita/yii2-iconpicker "^3.0"
 or add
 
 ```
-"insolita/yii2-iconpicker": "^3.0"
+"automacaoiot/yii2-iconpicker": "^3.0"
 ```
 
 to the require section of your `composer.json` file.
